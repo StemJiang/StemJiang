@@ -1,4 +1,5 @@
 ### Hi there 👋
+ I'm a guy who studied Physics, and is studying more math and computer here. I want to share you my resources and experience though I'm actually know few. Wishes for everyone to become the best of yourself. Let's do it together!
 
 <!--
 **StemJiang/StemJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
