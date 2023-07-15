@@ -6,7 +6,8 @@ site_description: For recording and share what I am learning.
 
 # [Navigtion]
 nav:
-  - Reading : "reading.md"
+  - Prefix: "index.md"
+  - Reading: "reading.md"
 
 
 
