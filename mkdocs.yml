@@ -6,7 +6,7 @@ site_description: For recording and share what I am learning.
 
 # [Navigtion]
 nav:
-  - Reading : "docs/reading.md"
+  - Reading : "reading.md"
 
 
 
@@ -39,7 +39,7 @@ theme:
   language: zh # 一些提示性的文字会变成中文
   icon:
     repo: fontawesome/brands/github
-    
+
 # edit_uri: edit/main/docs # 编辑按钮跳转的链接
 # ## [top-right corner]
 # repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # 右上角点击跳转的链接
